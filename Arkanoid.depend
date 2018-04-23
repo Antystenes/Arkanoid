@@ -1,0 +1,1197 @@
+# depslib dependency file v1.0
+1484412471 source:c:\users\morgoth\arkanoid\main.cpp
+	"Menu.h"
+
+1484419726 
+
+1476932294 c:\users\morgoth\arkanoid\sdl\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 e.h"
+
+1476932294 c:\users\morgoth\arkanoid\sdl\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\users\morgoth\arkanoid\sdl\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1476932294 c:\users\morgoth\arkanoid\sdl\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1476932294 orm.h"
+
+1476932294 c:\users\morgoth\arkanoid\sdl\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\users\morgoth\arkanoid\sdl\include\sdl2\begin_code.h
+
+1476932294 c:\users\morgoth\arkanoid\sdl\include\sdl2\close_code.h
+
+1476932294 c:\users\morgoth\arkanoid\sdl\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1476932294 c:\users\morgoth\arkanoid\sdl\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1476932294 c:\users\morgoth\arkanoid\sdl\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\users\morgoth\arkanoid\sdl\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\users\morgoth\arkanoid\sdl\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\users\morgoth\arkanoid\sdl\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\users\morgoth\arkanoid\sdl\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1476932294 c:\users\morgoth\arkanoid\sdl\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\users\morgoth\arkanoid\sdl\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\users\morgoth\arkanoid\sdl\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\users\morgoth\arkanoid\sdl\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\users\morgoth\arkanoid\sdl\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\users\morgoth\arkanoid\sdl\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\users\morgoth\arkanoid\sdl\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\users\morgoth\arkanoid\sdl\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\users\morgoth\arkanoid\sdl\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\users\morgoth\arkanoid\sdl\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\users\morgoth\arkanoid\sdl\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1476932294 ode.h"
+
+1476932294 c:\users\morgoth\arkanoid\sdl\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1476932294 c.h"
+
+1476932294 c:\users\morgoth\arkanoid\sdl\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\users\morgoth\arkanoid\sdl\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\users\morgoth\arkanoid\sdl\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\users\morgoth\arkanoid\sdl\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1476932294 .h"
+
+1476932294 c:\users\morgoth\arkanoid\sdl\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\users\morgoth\arkanoid\sdl\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\users\morgoth\arkanoid\sdl\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\users\morgoth\arkanoid\sdl\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\users\morgoth\arkanoid\sdl\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\users\morgoth\arkanoid\sdl\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\users\morgoth\arkanoid\sdl\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\users\morgoth\arkanoid\sdl\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\users\morgoth\arkanoid\sdl\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\users\morgoth\arkanoid\sdl\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\users\morgoth\arkanoid\sdl\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\users\morgoth\arkanoid\sdl\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476932294 c:\users\morgoth\arkanoid\sdl\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1484313856 c:\users\morgoth\arkanoid\include\window.h
+	<SDL.h>
+
+1484411757 source:c:\users\morgoth\arkanoid\src\window.cpp
+	"Window.h"
+	<stdio.h>
+	"Configuration.h"
+
+1484419344 tion.h"
+
+1484408906 source:c:\users\morgoth\arkanoid\src\gameobject.cpp
+	"GameObject.h"
+
+1484406783 t.h"
+
+1484409026 c:\users\morgoth\arkanoid\include\gameobject.h
+	<vector>
+	<algorithm>
+	<SDL.h>
+
+1484409026 >
+
+1484415063 source:c:\users\morgoth\arkanoid\src\racket.cpp
+	"Racket.h"
+	"Window.h"
+	"Helper.h"
+	"Configuration.h"
+
+1484418236 c:\users\morgoth\arkanoid\include\racket.h
+	"GameObject.h"
+	"Movable.h"
+
+1484419918 "
+
+1484254520 source:c:\users\morgoth\arkanoid\src\configuration.cpp
+	"Configuration.h"
+
+1484324324 c:\users\morgoth\arkanoid\include\configuration.h
+
+1484255253 source:c:\users\morgoth\arkanoid\src\movable.cpp
+	"Movable.h"
+
+1484386455 c:\users\morgoth\arkanoid\include\movable.h
+
+1484312205 c:\users\morgoth\arkanoid\include\gamecontroller.h
+	"Racket.h"
+
+1484419344 source:c:\users\morgoth\arkanoid\src\gamecontroller.cpp
+	"GameController.h"
+	"Ball.h"
+	"Configuration.h"
+
+1484409086 source:c:\users\morgoth\arkanoid\src\block.cpp
+	"Block.h"
+	"Configuration.h"
+	"Window.h"
+	"Helper.h"
+	<stdio.h>
+
+1484409079 c:\users\morgoth\arkanoid\include\block.h
+	"GameObject.h"
+
+1484333553 c:\users\morgoth\arkanoid\include\helper.h
+	<SDL.h>
+
+1484336306 source:c:\users\morgoth\arkanoid\src\helper.cpp
+	"Helper.h"
+	"Window.h"
+
+1484418532 c:\users\morgoth\arkanoid\include\ball.h
+	"GameObject.h"
+	"Movable.h"
+
+1484418641 source:c:\users\morgoth\arkanoid\src\ball.cpp
+	"Ball.h"
+	"Helper.h"
+	"Configuration.h"
+	"Window.h"
+
+1484420242 source:c:\users\morgoth\arkanoid\src\physics.cpp
+	<cmath>
+	"Physics.h"
+	"GameObject.h"
+	"Racket.h"
+	"Configuration.h"
+	"Block.h"
+
+1484406783 c:\users\morgoth\arkanoid\include\physics.h
+	"Ball.h"
+	"GameObject.h"
+
+1484418951 c:\users\morgoth\arkanoid\include\game.h
+	"Racket.h"
+
+1484419918 source:c:\users\morgoth\arkanoid\src\game.cpp
+	<SDL.h>
+	<stdio.h>
+	"Game.h"
+	"Window.h"
+	"GameController.h"
+	"Block.h"
+	"Ball.h"
+	"Physics.h"
+
+1484419632 c:\users\morgoth\arkanoid\include\menu.h
+	<SDL.h>
+
+1484419726 source:c:\users\morgoth\arkanoid\src\menu.cpp
+	"Menu.h"
+	"Helper.h"
+	"Game.h"
+	"Configuration.h"
+	"Window.h"
+
+1484497813 source:/home/Programming/C/Arkanoid/main.cpp
+	"Menu.h"
+
+1484502101 /home/Programming/C/Arkanoid/include/Menu.h
+	"Helper.h"
+	<SDL.h>
+
+1484497812 /home/Programming/C/Arkanoid/SDL/include/SDL2/SDL.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1484497812 /home/Programming/C/Arkanoid/SDL/include/SDL2/SDL_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1484497813 /home/Programming/C/Arkanoid/SDL/include/SDL2/SDL_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1484497812 /home/Programming/C/Arkanoid/SDL/include/SDL2/SDL_config.h
+	"SDL_platform.h"
+
+1484497813 /home/Programming/C/Arkanoid/SDL/include/SDL2/SDL_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1484497812 /home/Programming/C/Arkanoid/SDL/include/SDL2/begin_code.h
+
+1484497812 /home/Programming/C/Arkanoid/SDL/include/SDL2/close_code.h
+
+1484497812 /home/Programming/C/Arkanoid/SDL/include/SDL2/SDL_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1484497812 /home/Programming/C/Arkanoid/SDL/include/SDL2/SDL_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1484497812 /home/Programming/C/Arkanoid/SDL/include/SDL2/SDL_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1484497812 /home/Programming/C/Arkanoid/SDL/include/SDL2/SDL_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1484497812 /home/Programming/C/Arkanoid/SDL/include/SDL2/SDL_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1484497812 /home/Programming/C/Arkanoid/SDL/include/SDL2/SDL_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1484497813 /home/Programming/C/Arkanoid/SDL/include/SDL2/SDL_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1484497813 /home/Programming/C/Arkanoid/SDL/include/SDL2/SDL_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1484497812 /home/Programming/C/Arkanoid/SDL/include/SDL2/SDL_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1484497812 /home/Programming/C/Arkanoid/SDL/include/SDL2/SDL_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1484497812 /home/Programming/C/Arkanoid/SDL/include/SDL2/SDL_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1484497813 /home/Programming/C/Arkanoid/SDL/include/SDL2/SDL_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1484497812 /home/Programming/C/Arkanoid/SDL/include/SDL2/SDL_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1484497813 /home/Programming/C/Arkanoid/SDL/include/SDL2/SDL_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1484497813 /home/Programming/C/Arkanoid/SDL/include/SDL2/SDL_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1484497812 /home/Programming/C/Arkanoid/SDL/include/SDL2/SDL_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1484497812 /home/Programming/C/Arkanoid/SDL/include/SDL2/SDL_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1484497812 /home/Programming/C/Arkanoid/SDL/include/SDL2/SDL_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1484497813 /home/Programming/C/Arkanoid/SDL/include/SDL2/SDL_scancode.h
+	"SDL_stdinc.h"
+
+1484497812 /home/Programming/C/Arkanoid/SDL/include/SDL2/SDL_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1484497812 /home/Programming/C/Arkanoid/SDL/include/SDL2/SDL_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1484497812 /home/Programming/C/Arkanoid/SDL/include/SDL2/SDL_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1484497813 /home/Programming/C/Arkanoid/SDL/include/SDL2/SDL_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1484497812 /home/Programming/C/Arkanoid/SDL/include/SDL2/SDL_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1484497813 /home/Programming/C/Arkanoid/SDL/include/SDL2/SDL_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1484497812 /home/Programming/C/Arkanoid/SDL/include/SDL2/SDL_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1484497812 /home/Programming/C/Arkanoid/SDL/include/SDL2/SDL_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1484497812 /home/Programming/C/Arkanoid/SDL/include/SDL2/SDL_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1484497812 /home/Programming/C/Arkanoid/SDL/include/SDL2/SDL_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1484497812 /home/Programming/C/Arkanoid/SDL/include/SDL2/SDL_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1484497812 /home/Programming/C/Arkanoid/SDL/include/SDL2/SDL_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1484497813 /home/Programming/C/Arkanoid/SDL/include/SDL2/SDL_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1484497813 /home/Programming/C/Arkanoid/SDL/include/SDL2/SDL_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1484497813 /home/Programming/C/Arkanoid/SDL/include/SDL2/SDL_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1484497813 /home/Programming/C/Arkanoid/SDL/include/SDL2/SDL_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1484497813 /home/Programming/C/Arkanoid/SDL/include/SDL2/SDL_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1484505076 source:/home/Programming/C/Arkanoid/src/Ball.cpp
+	"Ball.h"
+	"Helper.h"
+	"Configuration.h"
+	"Window.h"
+
+1484497813 /home/Programming/C/Arkanoid/include/Ball.h
+	"GameObject.h"
+	"Movable.h"
+
+1484497813 /home/Programming/C/Arkanoid/include/GameObject.h
+	<vector>
+	<algorithm>
+	<SDL.h>
+
+1484497813 /home/Programming/C/Arkanoid/include/Movable.h
+
+1484497813 /home/Programming/C/Arkanoid/include/Helper.h
+	<SDL.h>
+
+1484504242 /home/Programming/C/Arkanoid/include/Configuration.h
+
+1484500523 /home/Programming/C/Arkanoid/include/Window.h
+	<SDL.h>
+
+1484503696 source:/home/Programming/C/Arkanoid/src/Block.cpp
+	"Block.h"
+	"Configuration.h"
+	"Window.h"
+	"Helper.h"
+	<stdio.h>
+
+1484502816 /home/Programming/C/Arkanoid/include/Block.h
+	"GameObject.h"
+
+1484497814 source:/home/Programming/C/Arkanoid/src/Configuration.cpp
+	"Configuration.h"
+
+1484503859 source:/home/Programming/C/Arkanoid/src/Game.cpp
+	<SDL.h>
+	<stdio.h>
+	"Game.h"
+	"Window.h"
+	"GameController.h"
+	"Block.h"
+	"Ball.h"
+	"Physics.h"
+
+1484497813 /home/Programming/C/Arkanoid/include/Game.h
+	"Racket.h"
+
+1484497813 /home/Programming/C/Arkanoid/include/Racket.h
+	"GameObject.h"
+	"Movable.h"
+
+1484497813 /home/Programming/C/Arkanoid/include/GameController.h
+	"Racket.h"
+
+1484497813 /home/Programming/C/Arkanoid/include/Physics.h
+	"Ball.h"
+	"GameObject.h"
+
+1484497814 source:/home/Programming/C/Arkanoid/src/GameObject.cpp
+	"GameObject.h"
+
+1484499780 source:/home/Programming/C/Arkanoid/src/Helper.cpp
+	"Helper.h"
+	"Window.h"
+	<stdio.h>
+
+1484502157 source:/home/Programming/C/Arkanoid/src/Menu.cpp
+	"Menu.h"
+	"Game.h"
+	"Configuration.h"
+	"Window.h"
+
+1484497814 source:/home/Programming/C/Arkanoid/src/Movable.cpp
+	"Movable.h"
+
+1484497814 source:/home/Programming/C/Arkanoid/src/Racket.cpp
+	"Racket.h"
+	"Window.h"
+	"Helper.h"
+	"Configuration.h"
+
+1484497814 source:/home/Programming/C/Arkanoid/src/GameController.cpp
+	"GameController.h"
+	"Ball.h"
+	"Configuration.h"
+
+1484505104 source:/home/Programming/C/Arkanoid/src/Physics.cpp
+	<cmath>
+	"Physics.h"
+	"GameObject.h"
+	"Racket.h"
+	"Configuration.h"
+	"Block.h"
+
+1484500626 source:/home/Programming/C/Arkanoid/src/Window.cpp
+	"Window.h"
+	<stdio.h>
+	"Configuration.h"
+
+1477798750 /usr/include/SDL2/SDL.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1477798750 /usr/include/SDL2/SDL_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1477798750 /usr/include/SDL2/SDL_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1477798750 /usr/include/SDL2/SDL_config.h
+	"SDL_platform.h"
+
+1477798750 /usr/include/SDL2/SDL_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1477798750 /usr/include/SDL2/begin_code.h
+
+1477798750 /usr/include/SDL2/close_code.h
+
+1477798750 /usr/include/SDL2/SDL_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1477798750 /usr/include/SDL2/SDL_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1477798750 /usr/include/SDL2/SDL_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1477798750 /usr/include/SDL2/SDL_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1477798750 /usr/include/SDL2/SDL_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1477798750 /usr/include/SDL2/SDL_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1477798750 /usr/include/SDL2/SDL_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1477798750 /usr/include/SDL2/SDL_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1477798750 /usr/include/SDL2/SDL_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1477798750 /usr/include/SDL2/SDL_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1477798750 /usr/include/SDL2/SDL_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1477798750 /usr/include/SDL2/SDL_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1477798750 /usr/include/SDL2/SDL_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1477798750 /usr/include/SDL2/SDL_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1477798750 /usr/include/SDL2/SDL_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1477798750 /usr/include/SDL2/SDL_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1477798750 /usr/include/SDL2/SDL_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1477798750 /usr/include/SDL2/SDL_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1477798750 /usr/include/SDL2/SDL_scancode.h
+	"SDL_stdinc.h"
+
+1477798750 /usr/include/SDL2/SDL_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1477798750 /usr/include/SDL2/SDL_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1477798750 /usr/include/SDL2/SDL_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1477798750 /usr/include/SDL2/SDL_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1477798750 /usr/include/SDL2/SDL_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1477798750 /usr/include/SDL2/SDL_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1477798750 /usr/include/SDL2/SDL_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1477798750 /usr/include/SDL2/SDL_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1477798750 /usr/include/SDL2/SDL_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1477798750 /usr/include/SDL2/SDL_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1477798750 /usr/include/SDL2/SDL_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1477798750 /usr/include/SDL2/SDL_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1477798750 /usr/include/SDL2/SDL_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1477798750 /usr/include/SDL2/SDL_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1477798750 /usr/include/SDL2/SDL_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1477798750 /usr/include/SDL2/SDL_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1477798750 /usr/include/SDL2/SDL_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
